@@ -1,9 +1,6 @@
 ### Hi I am Bikash Jha  👋
 
 
-**Bikash-developer/Bikash-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  ... Data Science Projects and also focusing on Real-time Projects
 - 🌱 I’m currently learning ...  Handling a different data coming from the internet and to make a use of the same to get a response on a real-time basis
