@@ -1,6 +1,6 @@
 ### Hi I am Bikash Jha  👋
 
-<!--
+
 **Bikash-developer/Bikash-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... You guys can reach out to me via Email ID bikashjha9875@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  I am greedy !! 🙌
--->
+
